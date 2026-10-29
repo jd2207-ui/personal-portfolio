@@ -27,6 +27,7 @@ This portfolio serves as a place to introduce myself, highlight my work, and sha
 ## 🌍 Live Demo
 
 🔗 **Live Website:**https://jd2207-ui.github.io/personal-portfolio/  
+🔗 https://future-glow-portfolio-39.lovable.app
 
 ## 🎯 Future Improvements
 
